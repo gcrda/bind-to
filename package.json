@@ -1,0 +1,20 @@
+{
+  "name": "bind-to.js",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/gcrda/bind.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcrda/bind.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gcrda/bind.js/issues"
+  },
+
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
