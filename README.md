@@ -1,1 +1,1 @@
-# bindTo.js
+# bindTo

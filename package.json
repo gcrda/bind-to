@@ -1,16 +1,16 @@
 {
-  "name": "bind-to.js",
+  "name": "bind-to",
   "version": "1.0.0",
   "description": "",
   "author": "",
   "license": "MIT",
-  "homepage": "https://github.com/gcrda/bind.js#readme",
+  "homepage": "https://github.com/gcrda/bind-to#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gcrda/bind.js.git"
+    "url": "git+https://github.com/gcrda/bind-to.git"
   },
   "bugs": {
-    "url": "https://github.com/gcrda/bind.js/issues"
+    "url": "https://github.com/gcrda/bind-to/issues"
   },
 
   "main": "index.js",
